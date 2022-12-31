@@ -12,5 +12,3 @@ setup(
    author='Navaneeth U.',
    author_email='nu2071@nyu.edu',
    url="https://github.com/navunni/mass-email-sender",
-   #packages=['BulkEmail'],
-   #install_requires=['smtplib', 'ssl'], #external packages as dependencies
