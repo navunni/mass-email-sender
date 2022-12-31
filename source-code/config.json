@@ -1,0 +1,6 @@
+{ 
+      "server": "smtp.nyu.edu"
+      "port": "587",
+      "sender_email": "email@domain.com"
+      "password": "somePa$$word",
+}
