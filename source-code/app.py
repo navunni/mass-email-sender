@@ -20,8 +20,6 @@ def main(argv):
          addressfile =  arg
       elif opt in ("-m", "--message"):
          messagefile = arg
-   #c = open(configfile).read()
-   #print(c)
    bulk_mail_sender(configfile, addressfile, messagefile)
 if __name__ == "__main__":
    main(sys.argv[1:])
